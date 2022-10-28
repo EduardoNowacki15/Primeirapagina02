@@ -1,0 +1,46 @@
+
+h1 {
+   color: black;
+  
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center;
+
+
+}
+
+.café{
+   width: 20%;
+   border: 80px;
+   margin-left: 40px;
+}
+
+footer{
+   text-align: center;
+}
+
+html{
+   text-align: justify;
+   background: linear-gradient(to right, #d1b77f, #dda77a);
+}
+
+.a{
+   text-align: center;
+   background-color: rgb(230, 192, 146);
+   margin-left: 570px;
+   margin-right: 570px;
+   padding: 12px;
+}
+
+h3{
+   background-color: #dda77a;
+   text-align: center;
+}
+
+.cabecalho{
+   background-color: antiquewhite;
+   margin-left: 300px;
+   width: 60%;
+   height: 150%;
+
+   
+}
